@@ -1,0 +1,39 @@
+_repo: A-fallencia_69229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almeida, Júlia Lopes de
+    aliases:
+    - Lopes de Almeida, Júlia
+    - De Almeida, Júlia Lopes
+    - Almeida, Julia Lopes de
+    - Silveira Lopes de Almeida, Júlia Valentina da
+    birthdate: 1862
+    deathdate: 1934
+    gutenberg_agent_id: '54351'
+    url: http://www.gutenberg.org/2009/agents/54351
+    wikipedia:
+    - https://en.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
+    - https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
+description: ''
+gutenberg_issued: '2022-10-25'
+identifiers:
+  gutenberg: '69229'
+language: pt
+pgterms:marc904: https://archive.org/details/afallencia00almegoog
+pgterms:marc905: 20220817094200almeida
+pgterms:marc906: '1901'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: 'Brazil: Officinas de Obras d''A Tribuna,1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bankruptcy -- Fiction'
+- !lcsh 'Brazilian fiction'
+- !lcc 'PQ'
+- GITenberg
+title: A fallencia
+url: http://www.gutenberg.org/ebooks/69229
