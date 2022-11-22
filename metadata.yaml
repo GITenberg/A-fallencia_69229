@@ -1,5 +1,8 @@
 _repo: A-fallencia_69229
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69229-h/images/fallencia_cover.jpg
 creator:
   author:
     agent_name: Almeida, Júlia Lopes de
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
     - https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69229#A-fallencia
 gutenberg_issued: '2022-10-25'
 identifiers:
   gutenberg: '69229'
